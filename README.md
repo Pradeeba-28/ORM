@@ -63,8 +63,7 @@ admin.site.register(FoodDelivery_DB, FoodDelivery_DBAdmin)
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
-
+![Admin Output](images/Screenshot (187).png)
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
